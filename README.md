@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vishnu Vardhan You can Call me Vishan</h1>
+<h1 align="center">Hi 👋, I'm Vishnu Vardhan You can Call me</h1>
+<p align="center"><img width=60% src="https://github.com/Uninterestedguy/Uninterestedguy/blob/main/coin.gif"></p>
 <h3 align="center">An enthusiast for computer science and Tech-rev</h3>
+========================================
 
 - 🔭 I’m currently pursing B.Tech in **Sreenidhi Institute Of Science And Technology**
 
