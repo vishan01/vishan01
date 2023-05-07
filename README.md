@@ -22,7 +22,7 @@
 
 ## 🎓Certifications
 ![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Data Science For Engineers<br>
-![GYMANSIUM](https://img.shields.io/badge/Gymnasium----blackgrey) certified for -- Fundamentals Of UX Design
+![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) certified for -- Fundamentals Of UX Design
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Uninterestedguy&show_icons=true&theme=transparent)
