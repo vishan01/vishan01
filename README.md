@@ -21,8 +21,8 @@
 <br> 
 
 ## 🎓Certifications
-![https://media.licdn.com/dms/image/D5622AQEx0QboZuZzcQ/feedshare-shrink_800/0/1680700099543?e=1686182400&v=beta&t=oeqUFObf9qgZd4JijMQu8EqDdpuvxzq3neKj1Y5TKR8)](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Data Science For Engineers
-
+![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Data Science For Engineers
+![GYMANSIUM](https://img.shields.io/badge/Gymnasium----blackgrey) certified for -- Fundamentals Of UX Design
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Uninterestedguy&show_icons=true&theme=transparent)
