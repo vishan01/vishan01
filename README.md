@@ -21,7 +21,7 @@
 <br> 
 
 ## 🎓Certifications
-![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Data Science For Engineers
+![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Data Science For Engineers<br>
 ![GYMANSIUM](https://img.shields.io/badge/Gymnasium----blackgrey) certified for -- Fundamentals Of UX Design
 
 
