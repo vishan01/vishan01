@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan You can Call me</h1>
-<p align="center"><img width=60% src="https://github.com/Uninterestedguy/Uninterestedguy/blob/main/coin.gif"></p>
+<p align="center"><img width=60% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZkNDc5ODc2MTAwYWEyM2IwMGU0MTk0ZTJjY2EwODBmMzdmNTBmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ca5SqmO2X84GmSPgsH/giphy.gif"></p>
 <h3 align="center">An enthusiast for computer science and Tech-rev</h3>
 ========================================
 
