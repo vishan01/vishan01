@@ -25,16 +25,14 @@
 ![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) certified for -- Fundamentals Of UX Design
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Uninterestedguy&show_icons=true&theme=transparent)
-
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uninterestedguy&show_icons=true&locale=en&layout=compact" alt="uninterestedguy" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/uninterestedguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="uninterestedguy" height="30" width="40" /></a>
-<a href="https://twitter.com/vishan_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishan_me" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishan1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21589997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21589997" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Uninterestedguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishnureddy228" height="30" width="40" /></a>
-<a href="https://discord.gg/vishan1#1703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vishan1#1703" height="30" width="40" /></a>
+<a href="https://dev.to/uninterestedguy" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="uninterestedguy" height="30" width="40" /></a>
+<a href="https://twitter.com/vishan_me" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" alt="vishan_me" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishan1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="vishan1" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21589997" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="21589997" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Uninterestedguy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="vishnureddy228" height="30" width="40" /></a>
+<a href="https://discord.gg/vishan1#1703" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="vishan1#1703" height="30" width="40" /></a>
 </p>
