@@ -21,11 +21,11 @@
 <br> 
 
 ## 🎓Certifications
-![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  certified for -- Data Science For Engineers<br>
-![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) certified for -- Fundamentals Of UX Design
+![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  <em>certified for</em> -- Data Science For Engineers<br>
+![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) <em>certified for</em> -- Fundamentals Of UX Design<br>
+![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist Professional with Python
 
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uninterestedguy&show_icons=true&locale=en&layout=compact" alt="uninterestedguy" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishan01&show_icons=true&locale=en&layout=compact" alt="uninterestedguy" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
