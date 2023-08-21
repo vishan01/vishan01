@@ -23,8 +23,9 @@
 ## 🎓Certifications
 ![NPTEL](https://img.shields.io/badge/NPTEL-SWAYAM-red)  <em>certified for</em> -- Data Science For Engineers<br>
 ![GYMANSIUM](https://img.shields.io/badge/GYMNASIUM----blackGREEN) <em>certified for</em> -- Fundamentals Of UX Design<br>
-![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist Professional with Python
-<br>
+![DATACAMP](https://img.shields.io/badge/DATA-CAMP-darkgreen) <em>certified for</em> -- Data Scientist Professional with Python<br>
+![Algorithmic Toolbox](https://img.shields.io/badge/Algorithmic-Toolbox-blue) <em>certified by</em> -- UC Sandiego 
+
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishan01&show_icons=true&locale=en&layout=compact" alt="uninterestedguy" /></p>
 
