@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan You can Call me</h1>
 <p align="center"><img width=60% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZkNDc5ODc2MTAwYWEyM2IwMGU0MTk0ZTJjY2EwODBmMzdmNTBmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ca5SqmO2X84GmSPgsH/giphy.gif"></p>
-<h3 align="center">An enthusiast for computer science and Tech-rev</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=5&color=1492A9&center=true&multiline=true&repeat=false&random=false&width=435&lines=A+Web+Developer%2C+AI+Engineer;And+Data+Science+Enthusiast)](https://git.io/typing-svg)
+</div>
 ========================================
 
 - 🔭 I’m currently pursing B.Tech in **Sreenidhi Institute Of Science And Technology**
@@ -54,3 +57,9 @@
 <a href="https://www.hackerrank.com/Uninterestedguy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="vishnureddy228" height="30" width="40" /></a>
 <a href="https://discord.gg/vishan1#1703" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="vishan1#1703" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/vishan01/count.svg)
+  
+</div>
