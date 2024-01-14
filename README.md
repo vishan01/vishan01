@@ -34,34 +34,17 @@
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/vishan01/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vishan01's streak" src="https://github-readme-streak-stats-9m8ugfa77-vishan01.vercel.app/?user=vishan01&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://vishan01-github-readme-stats.vercel.app/api/?username=vishan01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://vishan01-github-readme-stats.vercel.app/api/top-langs/?username=vishan01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vishan01's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vishan01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+<details> 
+  <summary><h2>🎶 Abit of Music</h2></summary>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5z1zk1yuy6wgdt6h3d2p2jy1u&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=56d651&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-
+ </details>
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/uninterestedguy" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="uninterestedguy" height="30" width="40" /></a>
