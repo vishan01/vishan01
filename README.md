@@ -38,8 +38,6 @@
   <summary><h2>📊 Stats and Activity</h2></summary>
 
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vishan01's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vishan01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 </details>
 <details> 
   <summary><h2>🎶 Abit of Music</h2></summary>
