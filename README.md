@@ -32,7 +32,7 @@
 ![AWS CLOUD Foundations](https://img.shields.io/badge/Cloud-Foundation-orange) <em>certified by</em> -- AWS<br/>
 ![AWS ML Foundations](https://img.shields.io/badge/ML-Foundation-orange) <em>certified by</em> -- AWS
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishan01&show_icons=true&locale=en&layout=compact" alt="uninterestedguy" /></p>
+
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
