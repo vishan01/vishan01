@@ -33,6 +33,10 @@
 ![AWS ML Foundations](https://img.shields.io/badge/ML-Foundation-orange) <em>certified by</em> -- AWS
 <br>
 
+<details>
+  <summary> <h2>My Portfolio</h2> </summary>
+  <p align="center"><a href="vishan.me"><img src="portfolio.PNG"></a></p>
+</details>
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
