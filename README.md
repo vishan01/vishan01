@@ -34,7 +34,7 @@
 <br>
 
 <details>
-  <summary> <h2>My Portfolio</h2> </summary>
+  <summary> <h2>🌐My Portfolio</h2> </summary>
   <p align="center"><a href="vishan.me"><img src="portfolio.PNG"></a></p>
 </details>
 
