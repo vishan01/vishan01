@@ -44,12 +44,6 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishan01&show_icons=true&count_private=true)
 
 </details>
-<details> 
-  <summary><h2>🎶 Abit of Music</h2></summary>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5z1zk1yuy6wgdt6h3d2p2jy1u&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=56d651&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
- </details>
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
