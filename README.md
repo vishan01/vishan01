@@ -38,12 +38,6 @@
   <p align="center"><a href="vishan.me"><img src="portfolio.PNG"></a></p>
 </details>
 
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
-  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishan01&show_icons=true&count_private=true)
-
-</details>
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
