@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan You can Call me</h1>
 <p align="center"><img width=60% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZkNDc5ODc2MTAwYWEyM2IwMGU0MTk0ZTJjY2EwODBmMzdmNTBmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ca5SqmO2X84GmSPgsH/giphy.gif"></p>
 <div align="center">
-<b>A Web Developer, AI Engineer And Data Science Enthusiast</b>
+<b>A Software Developer, Gen AI Engineer And Data Science Enthusiast</b>
 </div>
 
 ***
