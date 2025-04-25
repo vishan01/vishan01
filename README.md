@@ -30,7 +30,8 @@
 ![Algorithmic Toolbox](https://img.shields.io/badge/Algorithmic-Toolbox-blue) <em>certified by</em> -- UC Sandiego<br/>
 ![GoogleData Analytics](https://img.shields.io/badge/Data-Analytics-blue) <em>certified by</em> -- Google<br/>
 ![AWS CLOUD Foundations](https://img.shields.io/badge/Cloud-Foundation-orange) <em>certified by</em> -- AWS<br/>
-![AWS ML Foundations](https://img.shields.io/badge/ML-Foundation-orange) <em>certified by</em> -- AWS
+![AWS ML Foundations](https://img.shields.io/badge/ML-Foundation-orange) <em>certified by</em> -- AWS <br/>
+![Machine Learning Specialization](https://img.shields.io/badge/ML-Specialization-orange) <em> certified by</em> -- Deeplearning.AI
 <br>
 
 <details>
