@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **projects in the field of Datascience, artificial intelligence, machine learning**
 
-- 💬 Ask me about **Python, C/C++, R, Canva, Frontend.**
+- 💬 Ask me about **Python, C/C++, JS, AI/ML**
 
 - 📫 How to reach me **vishnureddy228@gmail.com**
 
